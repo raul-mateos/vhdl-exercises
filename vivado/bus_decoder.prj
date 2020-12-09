@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/bus_decoder.vhd"
+#vhdl work "../vhdl_src/bus_decoder_carry.vhd"
+vhdl work "../vhdl_src/bus_decoder_tb.vhd"
+#  Do not sort compile order
+nosort

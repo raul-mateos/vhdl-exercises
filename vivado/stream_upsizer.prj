@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/stream_upsizer.vhd"
+vhdl work "../vhdl_src/stream_upsizer_tb.vhd"
+#  Do not sort compile order
+nosort

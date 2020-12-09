@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/flash_controller.vhd"
+vhdl work "../vhdl_src/flash_mem.vhd"
+vhdl work "../vhdl_src/flash_controller_tb.vhd"
+#  Do not sort compile order
+nosort

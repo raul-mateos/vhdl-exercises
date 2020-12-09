@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/dac_serial_port.vhd"
+vhdl work "../vhdl_src/dac_serial_port_2.vhd"
+vhdl work "../vhdl_src/dac_serial_port_tb.vhd"
+#  Do not sort compile order
+nosort

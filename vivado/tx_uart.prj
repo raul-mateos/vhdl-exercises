@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/tx_uart.vhd"
+vhdl work "../vhdl_src/tx_uart_tb.vhd"
+#  Do not sort compile order
+nosort
