@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/t_on_limiter.vhd"
+vhdl work "../vhdl_src/t_on_limiter_tb.vhd"
+#  Do not sort compile order
+nosort

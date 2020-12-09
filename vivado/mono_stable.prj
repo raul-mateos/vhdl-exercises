@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/mono_stable.vhd"
+vhdl work "../vhdl_src/mono_stable_tb.vhd"
+#  Do not sort compile order
+nosort

@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/pwm_generator.vhd"
+vhdl work "../vhdl_src/pwm_generator_tb.vhd"
+#  Do not sort compile order
+nosort

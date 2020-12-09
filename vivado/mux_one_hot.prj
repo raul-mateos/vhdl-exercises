@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl work "../vhdl_src/mux_one_hot.vhd"
+vhdl work "../vhdl_src/mux_one_hot_gen.vhd"
+#  Do not sort compile order
+nosort
