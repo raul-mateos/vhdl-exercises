@@ -8,7 +8,7 @@ set rtl_src_path        ../vhdl_src
 #set questa_version [exec vcom -version];
 #set ver_number [lindex $questa_version 2];
 
-if {[vsimVersion] >= 2018.08} {
+if {[vsimVersion] >= 2017.09} {
   set no_opt  "-O0";
 } else {
   set no_opt  "-no_opt";

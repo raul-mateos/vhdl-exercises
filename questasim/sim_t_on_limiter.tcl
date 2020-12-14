@@ -2,7 +2,7 @@
 
 quit -sim
 
-if {[vsimVersion] >= 2018.08} {
+if {[vsimVersion] >= 2017.09} {
   set opt_args  "-voptargs=+acc -quiet";
 } else {
   set opt_args  "-novopt +acc";
