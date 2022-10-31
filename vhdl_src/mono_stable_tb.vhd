@@ -56,7 +56,7 @@ begin
     rst <= '0';
     gap(1);
 
-    pulse_length <= std_logic_vector(to_unsigned(5, 10));
+    pulse_length <= std_logic_vector(to_unsigned(3, 10));
     gap(4);
     
     for i in 1 to 10 loop

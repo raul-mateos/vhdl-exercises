@@ -43,6 +43,9 @@ vcom $no_opt -93 -work work       $rtl_src_path/pwm_generator_tb.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/TOF_meter.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/TOF_meter_tb.vhd
 
+vcom $no_opt -93 -work work       $rtl_src_path/moving_average_lite.vhd
+vcom $no_opt -93 -work work       $rtl_src_path/moving_average_lite_tb.vhd
+
 vcom $no_opt -93 -work work       $rtl_src_path/moving_average.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/moving_average_tb.vhd
 
