@@ -1,0 +1,2 @@
+Este directorio contiene los scripts necesarios para compilar y simular los
+diseños mediante ModelSim/Questasim.
