@@ -33,3 +33,13 @@ vcom $no_opt -93 -work work       $rtl_src_path/rx_module_v2_tb.vhd
 
 vcom $no_opt -93 -work work       $rtl_src_path/rx_module_v3.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/rx_module_v3_tb.vhd
+
+#---
+
+vcom $no_opt -93 -work work       $rtl_src_path/dna_protect_v1.vhd
+vcom $no_opt -93 -work work       $rtl_src_path/dna_protect_v1_tb.vhd
+
+vcom $no_opt -93 -work work       $rtl_src_path/soft_sync.vhd
+vcom $no_opt -93 -work work       $rtl_src_path/dna_protect_v2.vhd
+vcom $no_opt -93 -work work       $rtl_src_path/dna_protect_v2_tb.vhd
+

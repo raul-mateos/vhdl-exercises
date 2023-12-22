@@ -63,3 +63,7 @@ vcom $no_opt -93 -work work       $rtl_src_path/flash_controller.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/flash_mem.vhd
 vcom $no_opt -93 -work work       $rtl_src_path/flash_controller_tb.vhd
 
+
+vcom $no_opt -93 -work work       $rtl_src_path/decoder.vhd
+vcom $no_opt -93 -work work       $rtl_src_path/ring_counter_2.vhd
+
